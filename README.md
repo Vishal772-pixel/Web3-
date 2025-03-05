@@ -1,7 +1,3 @@
-Here’s a clean and minimal README.md for a basic Web3 project:
-
-
----
 
 🌐 Basic Web3 Project
 
@@ -27,7 +23,7 @@ Display user's wallet address and balance
 1. Clone the repository:
 
 git clone https://github.com/Vishal772-pixel/Web3.git
-cd basic-web3-project
+cd Web3
 
 
 2. Install dependencies:
